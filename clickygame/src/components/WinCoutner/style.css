@@ -1,0 +1,6 @@
+.wins, .losses {
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(59, 49, 63);
+    margin-bottom: 50px;
+  }
