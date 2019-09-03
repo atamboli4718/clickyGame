@@ -6,9 +6,11 @@ import { Row, Col } from "reactstrap";
 function ResultList(props) {
   return (
     <Row>
+      
       {props.results.map(result => (
         <ResultItem key={result.id} result={result} increaseGuess={props.increaseGuess} targetNumber={props.targetNumber} losses={props.losses} wins={props.wins}/>
       ))}
+
     </Row>
   );
 }
