@@ -22,7 +22,7 @@ class SearchResultContainer extends Component {
   render() {
     return (
       <div className="img-container">
-          <ResultList results={this.state.results} />
+          <ResultList results={this.state.results} increaseGuess={this.props.increaseGuess}/>
       </div>
     );
   }
