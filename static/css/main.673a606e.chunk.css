@@ -1,0 +1,2 @@
+.wrapper{background:pink;height:100%;display:flex;flex-flow:row wrap;padding:20px;justify-content:space-around;align-content:flex-start;overflow:auto}.title{font-size:3rem}.instructions,.title{width:100%;text-align:center;color:#3b313f;margin-bottom:50px}.instructions{font-size:2rem}.losses,.targetNumber,.wins,.yourGuess{text-align:center;font-size:3rem;color:#3b313f;margin-bottom:50px}*{box-sizing:border-box;font-family:sans-serif}#root,body,html{padding:0;margin:0;height:100%}
+/*# sourceMappingURL=main.673a606e.chunk.css.map */
